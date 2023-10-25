@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45a11b43.css",
+    "main.js": "/static/js/main.e033f3ff.js",
+    "static/media/banner11.png": "/static/media/banner11.660e77f5f6a577835f94.png",
+    "static/media/earbuds-prod-2.webp": "/static/media/earbuds-prod-2.67477bdbf3f67b3f559d.webp",
+    "index.html": "/index.html",
+    "main.45a11b43.css.map": "/static/css/main.45a11b43.css.map",
+    "main.e033f3ff.js.map": "/static/js/main.e033f3ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45a11b43.css",
+    "static/js/main.e033f3ff.js"
+  ]
+}
